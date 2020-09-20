@@ -1,0 +1,25 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+.first, .jumbotron, .login, .sign{
+  background-color:black;
+}
+.top{
+  color: white;
+}
+.main{
+  background-image: url("https://i.redd.it/2yvf4w9hq68z.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#hold{
+  width: 80%;
+  height: 200px;
+  margin-left: 10%;
+  background-color:  white;
+}
