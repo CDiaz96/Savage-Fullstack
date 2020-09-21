@@ -1,3 +1,8 @@
+Savage FullStack
+
+
+![Savage Fullstack](public/img/SavageFull.png)
+
 ## Installation
 
 1. Clone repo
